@@ -1,0 +1,13 @@
+# 忽略 Python 虛擬環境
+venv/
+env/
+
+# 忽略 Python 產生的快取檔案
+__pycache__/
+*.pyc
+*.pyo
+
+# 如果有其他編譯產生的檔案，也可以加入：
+*.so
+build/
+dist/
